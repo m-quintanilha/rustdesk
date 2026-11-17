@@ -1,0 +1,4 @@
+2026-11-17 10:04:30 - NetworkScanner - DEBUG - setup_logger:129 - Arquivo de log criado: logs\scanner_20261117.log
+2026-11-17 10:04:30 - NetworkScanner - INFO - scan:27 - Iniciando ARP scan na rede 192.168.1.0/24
+2026-11-17 10:04:30 - NetworkScanner - ERROR - scan:40 - ARP scan failed: O Sudo estÃ¡ desabilitado neste computador. Para habilita-lo, vÃ¡ para ]8;;ms-settings:developers\Developer Settings page]8;;\ no aplicativo ConfiguraÃ§Ãµes
+
